@@ -1,0 +1,263 @@
+1. Purpose
+This Leave Policy is designed to establish a structured, transparent, and sustainable leave
+framework. The policy aims to balance employee well-being with operational continuity
+while standardizing leave accrual, utilization, accumulation, and encashment practices
+across the organization.
+2. Policy Scope
+This policy sets out the various types of leave that an employee is eligible for and outlines
+the procedure for availing a leave. Your leaves are calculated based on a calendar year i.e.,
+from 1st January to 31st December.
+3. Annual Leave Entitlement (Total: 20 Days)
+ Casual Leave (CL): 12 days per calendar year
+ Earned Leave (EL): 8 days per calendar year
+ EL Accumulation Cap: Maximum of 20 days
+ Leave Credit Cycle: Leave credits are processed quarterly (5 days per quarter)
+
+Leave Category Quarterly Credit Leave Credit Status
+Casual Leave (CL) 3 days Credit beginning of each Quarter
+Earned Leave (EL) 2 days Credit at the end of each Quarter
+4. Types of Leave and Entitlements
+4.1 Casual Leave (CL)
+ Employees are entitled to 12 days of Casual Leave (CL) in a calendar year.
+ CL is intended for short-term or unforeseen personal requirements.
+ CL cannot be carried forward or encashed.
+ Unutilized CL will lapse at the end of the calendar year.
+4.2 Earned Leave (EL)
+ Employees are entitled to 8 days of Earned Leave (EL) per calendar year.
+ Earned Leave can be carried forward to the next calendar year.
+ EL can be accumulated up to a maximum of 20 days.
+ EL becomes eligible for encashment once the balance reaches 20 days.
+ No further EL will accrue beyond 20 days unless encashment is availed.
+ Earned Leave (EL) entitlement for new joiners will be activated only after
+successful completion of the probation period.
+ Earned Leave may be used for planned or long-term leave requirements.
+5. Leave Utilization Order
+Leaves must be utilized in the following order:
+1. Casual Leave (CL)
+2. Earned Leave (EL)
+Any deviation from this order requires management approval.
+6. Earned Leave (EL) Encashment Policy
+ Earned Leave (EL) encashment is applicable only when the EL balance
+reaches 20 days.
+ EL encashment may be availed after the completion of the calendar year.
+ Employees may encash EL partially or fully, as per their requirement (for
+example, if 20 days are encashed, the remaining 10 days will continue in the
+EL account).
+ Employees may apply for Earned Leave (EL) encashment on a quarterly basis.
+ Employees are permitted to take encashment at one time in a calendar year.
+ The remaining EL balance will continue to reflect in the employee’s EL
+account after encashment.
+ Encashment will be calculated based on the Basic component of CTC, and it
+will be processed only through payroll, and applicable statutory taxes will be
+deducted accordingly.
+ Earned Leave (EL) encashment is applicable only to active employees.
+ Employees who are serving their notice period or have submitted their
+resignation are not eligible for EL encashment, including at the time of exit.
+7. Transition of Existing Privilege Leave (PL) to Earned Leave (EL)
+7.1 PL to EL Conversion Logic
+As part of the policy transition, existing Privilege Leave (PL) balances will be reviewed and
+aligned under the new structure. This will be a one-time exercise to convert eligible PL into
+Earned Leave (EL) for employees holding PL balances.
+Employees who currently have Privilege Leave (PL) may choose either to convert their PL
+into Earned Leave (EL) or to continue with their existing PL balance. This conversion is
+optional and, if chosen, will be done once on the effective of this policy.
+Conversion Logic
+Case 1: If PL Balance ≤ 6 Days
+ If an employee’s PL balance is less than or equal to 6 days,
+→ The PL balance will remain unchanged in the PL account.
+ No transfer to EL will occur.
+ Case 2: If PL Balance Exceeds 6 Days
+ If an employee’s Privilege Leave (PL) balance exceeds 6 days, the following conversion
+logic shall apply:
+1. Standard Deduction:
+Six (6) or seven (7) days will be retained from the existing PL balance, depending on
+whether the current balance is an even or odd number.
+Eg: 1. Current PL balance is an even number: If your current PL balance in 10, you
+will be eligible for 6 days standard deduction.
+2. Current PL balance is an odd number: If your current PL balance is 11, you will
+be eligible for 7 days standard deduction.
+2. Conversion-EarnedLeave(EL):
+After the applicable standard deduction, the remaining Privilege Leave (PL) balance
+shall be converted into Earned Leave (EL) in the ratio 2:1 and credited to the
+employee’s EL account. The standard retained balance of six (6) or seven (7) days will
+continue to remain in the PL account and can be used until fully exhausted, with no
+expiry.
+For Eg: If your PL as on date is 10 days, 6 days standard deduction will be applied,
+and you will continue to have those 6 days in PL, and the remaining 4 days will be
+converted to 2 days EL.
+If your PL as on date is 11 days, 7 days standard deduction will be applied, and you
+will continue to have those 7 days in PL, and the remaining 4 days will be converted
+to 2 days EL.
+7.2 PL to EL Conversion – Calculation Examples
+Example 1 (Even Number)
+•PL Balance: 10 days
+• Deducted from PL: 6 days
+• Remaining PL: 4 days
+• EL credited = In the ratio 2 PL :1 EL = 2 EL days
+Final Outcome:
+– PL Balance: 6
+– Additional Credit to EL : 2 days
+Example 2 (Odd Number)
+• PL Balance: 13 days
+• Deducted from PL: 7 days
+• Remaining PL: 6 days
+• EL credited = In the ratio 2 PL :1 EL = 3 EL days
+Final Outcome:
+– PL Balance: 7
+– Additional Credit to EL: 3 days
+Example 3 (Less than or equal to 6 days)
+• PL Balance: 6 days
+• Since PL ≤ 6
+• No conversion applied
+Final Outcome:
+– PL Balance: 6 days
+– Additional Credit to EL: Zero (No conversion of EL to PL)
+8. Additional Leave Categories
+The following leave categories are governed by statutory requirements and the company’s
+internal policies. These leaves are over and above the annual leave entitlement and do not
+form part of CL or EL balances.
+8.1 Maternity Leave
+a. In Case of Pregnancy
+1. Maternity Leave benefits are governed by Indian labour laws, including the Maternity
+Benefit Act, 1961, and applicable amendments.
+2. Employees become eligible for Maternity Leave after completing 80 days of
+confirmed employment with RGKTech.
+3. Eligible employees are entitled to 26 weeks of paid Maternity Leave for the first and
+second child, as per company records.
+4. For the third or subsequent child, employees are entitled to 12 weeks of paid
+Maternity Leave.
+5. Maternity Leave may be split before and after delivery—up to 8 weeks before the
+expected delivery date, with the remaining period after childbirth.
+6. A medical certificate from a registered medical practitioner stating the expected
+date of delivery must be submitted along with the leave request.
+7. Employees wishing to extend leave beyond the entitled Maternity Leave period may
+apply for unpaid special leave after exhausting their Privilege Leave (PL). The total
+period of absence, including Maternity Leave and extended leave, shall not exceed
+eight months. Upon return, the employee will be reinstated to the same position
+held prior to Maternity Leave.
+8. Any extension beyond the statutory Maternity Leave period is subject to
+management discretion.
+9. Any extension beyond the statutory Maternity Leave period shall first be adjusted
+against the employee’s available leave balance. Once all eligible leave balances are
+exhausted, the remaining period of absence will be treated as Leave Without Pay
+(LWP).
+b. In Case of Adoption
+1. Maternity Leave provisions for adopting mothers are governed by Indian labour
+laws.
+2. Maternity Leave for adopting mothers is applicable only if the adopted child is below
+three months of age.
+3. Eligible adopting mothers are entitled to 12 weeks of paid Maternity Leave,
+commencing from the date of adoption.
+4. Extension of leave beyond the entitled period may be requested as unpaid special
+leave after exhausting PL, subject to the maximum absence period of eight months.
+5. All extensions are subject to management approval.
+8.2 Paternity Leave
+1. Paternity Leave is applicable for the birth or adoption of the first and second child
+only, as per company records.
+2. Eligible employees are entitled to 5 days of Paternity Leave per delivery or adoption.
+3. Leave requests must be supported with valid documentation (medical or adoptionrelated) and approved in advance by the reporting manager.
+4. Paternity Leave may be availed:
+ Within four weeks before or after the spouse’s delivery, or
+ Within four weeks of adoption of a child. Any Paternity Leave not availed
+within this period will be considered forfeited.
+9. General Leave Rules & Administration
+9.1 Leave Application & Approval
+All leave requests must be submitted through iAssistant and approved in advance by the
+reporting manager.
+Path: iAssistant → Leave Request → Apply Leave Request
+9.2 Unapproved Absence / Leave Without Pay (LWP)
+Any leave or absence not applied for or approved in iAssistant will be treated as Leave
+Without Pay (LWP).
+Additionally, if an employee neither submits a Leave/Work From Home request in
+iAssistant nor has an official access entry recorded for the day, the absence will be
+considered LWP.
+9.3 Holidays and Weekly Offs During Leave
+If a declared public holiday or a weekly off falls within an approved leave period, such
+day(s) shall not be counted as leave.
+10.Policy Amendments & Review
+Management reserves the right to amend, modify, suspend, or withdraw any part of this
+policy at its discretion, in accordance with applicable statutory requirements and
+organizational needs. This policy will be reviewed annually or as required by HR.
+Disclaimer
+The applicability and eligibility of this Leave Policy may be implemented and/or modified by
+RGKTech from time to time at its sole discretion. Any such changes shall become effective
+immediately upon communication to employees.
+Leave Policy – Frequently Asked Questions (FAQs)
+1. What is the total number of leaves I am entitled to in a year?
+You are entitled to 20 days of paid leave per calendar year, comprising:
+ 12 days of Casual Leave (CL)
+ 8 days of Earned Leave (EL)
+2. What is the leave year followed by the company?
+The leave year follows the calendar year, from 1st January to 31st December.
+3. How and when are leaves credited?
+Leaves are credited on a quarterly basis as follows:
+ Casual Leave (CL): 3 days per quarter (Credit beginning of each quarter)
+ Earned Leave (EL): 2 days per quarter (Credit end of each quarter)
+Total quarterly credit: 5 days
+4. Can I carry forward my unused Casual Leave (CL)?
+No. Casual Leave cannot be carried forward or encashed. Any unutilized CL will lapse at
+the end of the calendar year.
+5. Can Earned Leave (EL) be carried forward?
+Yes. Earned Leave can be accumulated up to a maximum of 20 days.
+6. What happens if my EL balance reaches 20 days?
+Once your EL balance reaches 20 days:
+ You become eligible for EL encashment
+ EL will not accrue further unless you opt for encashment
+7. When can I encash my Earned Leave?
+EL encashment can be availed:
+ Only after the completion of the calendar year
+ Only if your EL balance is 20 days
+8. In what slabs can I encash my EL?
+There are no fixed slabs for Earned Leave (EL) encashment. Once an employee’s EL
+balance reaches 20 days, they become eligible to encash Earned Leave. Employees may
+choose the number of days they wish to encash as per their requirement. For example, if
+an employee opts to encash 15 days, the remaining 15 days will continue to reflect in the
+EL account.
+9. How is EL encashment paid?
+EL encashment is:
+ Processed only through payroll
+ Subject to applicable statutory tax deductions
+10. In what order should leaves be utilized?
+Leaves must be utilized in the following order:
+1. Casual Leave (CL) and Privilege Leave (PL)
+2. Earned Leave (EL)
+Any deviation from this order requires management approval.
+11. What happens to my existing Privilege Leave (PL)?
+Your existing PL balance will be transitioned as per the PL to EL conversion logic defined in
+the policy.
+12. What if my PL balance is 6 days or less?
+ Your PL balance will remain unchanged
+ No conversion to EL will take place
+13. What if my PL balance exceeds 6 days?
+If your Privilege Leave (PL) balance exceeds six (6) days, six (6) days or seven days (7) will
+be deducted from your PL balance as defined in the policy. Remaining PL after standard
+deduction will be converted to EL in the ratio 2:1. After the conversion, the PL balance will
+stand at six (6)/seven (7) days.
+14. How is an odd PL balance handled during conversion?
+In case of PL balance being an odd number, seven days (7) will remain in the PL and the
+remaining PL will be converted to EL in the ratio 2:1.
+15. How do I apply for leave?
+All leave requests must be submitted through iAssistant:
+ Path: iAssistant → Leave Request → Apply Leave Request
+ Leave must be approved by your reporting manager.
+16. What happens if I do not apply for leave in iAssistant?
+Any absence without an approved leave or WFH request in iAssistant will be treated as
+Leave Without Pay (LWP).
+17. What will happen to my final Privilege Leave (PL) balance after conversion to
+Earned Leave (EL)?
+After the conversion, the applicable standard deduction of six (6) days or seven (7) days
+will remain in your Privilege Leave (PL) account till you exhaust them.
+18. What if I neither apply for leave nor have an access entry?
+If there is:
+ No leave/WFH request and
+ No official access entry recorded
+The absence will be treated as LWP.
+19. Are holidays and weekly offs counted as leave?
+No. If a public holiday or weekly off falls during an approved leave period, it will not be
+counted as leave.
+20. Am I eligible to encash my Earned Leave (EL) during my notice period or at the time
+of exit from the company?
+ No. Employees who are serving their notice period or who have submitted their resignation
+are not eligible for Earned Leave (EL) encashment, including at the time of exit from the
+company.
+ 
